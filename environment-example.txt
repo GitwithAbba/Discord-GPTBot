@@ -1,2 +1,4 @@
+*NOTE* - THE EXAMPLE BELOW IS WHAT YOU'D PUT IN .ENV FILE
+
 TOKEN = "your token here"
 OPENAI_API_KEY = "your API key here"
